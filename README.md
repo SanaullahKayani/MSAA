@@ -24,7 +24,7 @@ The project involves a custom-built graphics pipeline to render 3D models with M
 
 1. Clone the repository:
    ```bash
-   git clone https://gricad-gitlab.univ-grenoble-alpes.fr/kayanim/multisample-anti-aliasing.git
+   git clone https://github.com/SanaullahKayani/MSAA.git
    cd multisample-anti-aliasing
 
 2. Install the required libraries:
