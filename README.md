@@ -1,4 +1,4 @@
-```markdown
+
 # Multisample Anti-Aliasing (MSAA) with Custom Graphics Pipeline
 
 This project demonstrates the implementation of **Multisample Anti-Aliasing (MSAA)** using a custom graphics pipeline. The aim is to improve visual quality in 3D rendering by minimizing aliasing artifacts like jagged edges.
@@ -26,7 +26,6 @@ The project involves a custom-built graphics pipeline to render 3D models with M
    ```bash
    git clone https://gricad-gitlab.univ-grenoble-alpes.fr/kayanim/multisample-anti-aliasing.git
    cd multisample-anti-aliasing
-   ```
 
 2. Install the required libraries:
    ```bash
